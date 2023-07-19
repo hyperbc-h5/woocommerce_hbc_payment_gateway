@@ -1,0 +1,100 @@
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/includes/admin/setup.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/init.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/Signature/Signature.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/ApiError.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/Merchant.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/HyperBC.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/Exception.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/lib/hyperbc/lib/Merchant/Order.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/hbc-payment-woocommerce.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1 | ERROR | An error occurred during processing; checking has been aborted. The error message was: trim(): Passing null to parameter #1 ($string) of type string
+   |       | is deprecated in
+   |       | /Users/coinw-quan/Documents/coinw/hcb_extension/hbc-payment-woocommerce/vendor/wp-coding-standards/wpcs/WordPress/Sniffs/WP/I18nSniff.php on line
+   |       | 194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
